@@ -1,9 +1,9 @@
 {
-  "publisher": "antfu",
-  "name": "theme-vitesse",
-  "displayName": "Vitesse Theme",
-  "version": "0.7.9",
-  "packageManager": "pnpm@8.15.7",
+  "publisher": "nebula",
+  "name": "theme-vitesse-mine",
+  "displayName": "Vitesse Theme Mine",
+  "version": "0.7.10",
+  "packageManager": "pnpm@9.0.6",
   "description": "Vitesse theme for VS Code",
   "license": "MIT",
   "repository": {
